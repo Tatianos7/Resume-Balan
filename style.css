@@ -158,6 +158,10 @@ body {
     padding: 20px;
 }
 
+.paragraf{
+    padding: 20px;
+}
+
 .project-img {
     width: 100%;
     border-top-left-radius: var(--borderRadius);
